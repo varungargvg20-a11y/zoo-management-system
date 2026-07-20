@@ -62,44 +62,22 @@ Zoo-Management-System/
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-## 🏠 Home Page
-
+### 🏠 Home Page
 ![Home](screenshots/home.png)
 
----
-
-## 🦁 Animals Page
-
+### 🦁 Animals Page
 ![Animals](screenshots/animals.png)
 
----
-
-## 📄 Animal Details
-
+### 📄 Animal Details
 ![Animal Details](screenshots/animal-details.png)
 
----
+### 🎟️ Book Ticket
+![Book Ticket](screenshots/bookticket.png)
 
-## 🔐 Admin Login
-
-![Admin Login](screenshots/admin-login.png)
-
----
-
-## 🛠️ Admin Dashboard
-
+### 🛠️ Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
-
----
-
-## 📞 Contact Page
-
-![Contact](screenshots/contact.png)
-
----
-
 # ⚙️ Installation
 
 ### 1️⃣ Clone the repository
